@@ -5,7 +5,7 @@
 
 # Declare variáveis do tipo string
 nome = "Murilo"
-Cidade = "Taubaté"
+cidade = "Taubaté"
 # Declare variáveis de cada tipo numérico
 idade = "24"
 ano = "2024"
