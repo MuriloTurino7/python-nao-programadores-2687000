@@ -4,8 +4,10 @@
 # - E não podemos usar palavras reservadas do Python, como if, for, from, etc. 
 
 # Declare variáveis do tipo string
-
+nome = "Murilo"
+Cidade = "Taubaté"
 # Declare variáveis de cada tipo numérico
-
-
+idade = "24"
+ano = "2024"
 # Declare uma variável do tipo booleano
+true = Murilo tem 24 anos
